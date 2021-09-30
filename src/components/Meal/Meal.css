@@ -1,0 +1,15 @@
+.meal img{
+    height: 300px;
+    width: 300px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+}
+
+.meal{
+    height: 470px;
+    padding: 10px;
+    margin: 10px;
+    box-shadow: 5px 5px 5px gray;
+    border: 2px solid gray;
+    border-radius: 20px;
+}

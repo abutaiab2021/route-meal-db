@@ -1,0 +1,17 @@
+.meals-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+}
+
+.seach-field{
+    width: 450px;
+    height: 25px;
+    margin: 10px;
+}
+
+.search-label{
+    margin-right: 10px;
+    font-weight: bold;
+    color: brown;
+}
